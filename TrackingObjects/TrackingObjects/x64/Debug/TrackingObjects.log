@@ -1,0 +1,19 @@
+﻿  objectTrackingTut.cpp
+c:\nikolay\opencv\projects\trackingobjects\trackingobjects\objecttrackingtut.cpp(40): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\nikolay\opencv\projects\trackingobjects\trackingobjects\objecttrackingtut.cpp(62): warning C4474: 'sprintf_s' : too many arguments passed for format string
+  c:\nikolay\opencv\projects\trackingobjects\trackingobjects\objecttrackingtut.cpp(62): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\nikolay\opencv\projects\trackingobjects\trackingobjects\objecttrackingtut.cpp(63): warning C4474: 'sprintf_s' : too many arguments passed for format string
+  c:\nikolay\opencv\projects\trackingobjects\trackingobjects\objecttrackingtut.cpp(63): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\nikolay\opencv\projects\trackingobjects\trackingobjects\objecttrackingtut.cpp(64): warning C4474: 'sprintf_s' : too many arguments passed for format string
+  c:\nikolay\opencv\projects\trackingobjects\trackingobjects\objecttrackingtut.cpp(64): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\nikolay\opencv\projects\trackingobjects\trackingobjects\objecttrackingtut.cpp(65): warning C4474: 'sprintf_s' : too many arguments passed for format string
+  c:\nikolay\opencv\projects\trackingobjects\trackingobjects\objecttrackingtut.cpp(65): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\nikolay\opencv\projects\trackingobjects\trackingobjects\objecttrackingtut.cpp(66): warning C4474: 'sprintf_s' : too many arguments passed for format string
+  c:\nikolay\opencv\projects\trackingobjects\trackingobjects\objecttrackingtut.cpp(66): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\nikolay\opencv\projects\trackingobjects\trackingobjects\objecttrackingtut.cpp(67): warning C4474: 'sprintf_s' : too many arguments passed for format string
+  c:\nikolay\opencv\projects\trackingobjects\trackingobjects\objecttrackingtut.cpp(67): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\nikolay\opencv\projects\trackingobjects\trackingobjects\objecttrackingtut.cpp(140): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\nikolay\opencv\projects\trackingobjects\trackingobjects\objecttrackingtut.cpp(153): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\nikolay\opencv\projects\trackingobjects\trackingobjects\objecttrackingtut.cpp(154): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  TrackingObjects.vcxproj -> C:\Nikolay\OpenCV\Projects\TrackingObjects\x64\Debug\TrackingObjects.exe
+  TrackingObjects.vcxproj -> C:\Nikolay\OpenCV\Projects\TrackingObjects\x64\Debug\TrackingObjects.pdb (Full PDB)
